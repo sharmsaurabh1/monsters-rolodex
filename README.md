@@ -1,3 +1,14 @@
+
+# How to install packages
+npm install command to install node modules
+
+# how to run the application
+npm start
+
+# **Screenshots**
+![Capture](https://user-images.githubusercontent.com/49514628/114877095-f9840480-9dcc-11eb-9e81-e00277289858.JPG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
